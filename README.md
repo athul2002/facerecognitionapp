@@ -8,3 +8,7 @@ ATHUL KRISHNA K
 MECHANICAL ENGINEERING DEPARTMENT
 INDIAN INSTITUTE OF TECHNOLOGY PATNA
 
+This is a vedio showing the website running in local host:
+
+https://user-images.githubusercontent.com/86716367/199576138-1136658f-c6ef-4a4f-b56e-ff936597178d.mp4
+
