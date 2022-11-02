@@ -118,7 +118,7 @@ app.post("/image", (req, res) => {
 // IMAGE RECOGNITION USING CLARIFAI API
 app.post("/imageurl", (req, res) => {
   const app = new Clarifai.App({
-    apiKey: process.env.CLARIFAI_API_KEY, 
+    apiKey:"c484df470a3d45d090add24eb8849c81" , 
   });
   app.models
     .predict(Clarifai.FACE_DETECT_MODEL, req.body.input)
