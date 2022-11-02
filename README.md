@@ -10,5 +10,8 @@ INDIAN INSTITUTE OF TECHNOLOGY PATNA
 
 This is a vedio showing the website running in local host:
 
-https://user-images.githubusercontent.com/86716367/199576138-1136658f-c6ef-4a4f-b56e-ff936597178d.mp4
+https://user-images.githubusercontent.com/86716367/199576629-8470f923-b37b-4f13-b9a8-1d99fdf1ecd1.mp4
+
+
+
 
