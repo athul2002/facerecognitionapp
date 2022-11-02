@@ -1,0 +1,31 @@
+.bounding-box {
+  position: absolute;
+  box-shadow: 0 0 0 3px #d30505 inset;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 4;
+
+}
+img{
+padding:8px;
+position: relative;
+z-index: 2;
+/* margin-top: 20px; */
+}
+
+.imageshow{
+  position: relative;
+
+}
+
+.image-container {
+  position: relative;
+}
+
+#inputimage {
+  width: 400px;
+  height: auto;
+  margin-top: 20px;
+}

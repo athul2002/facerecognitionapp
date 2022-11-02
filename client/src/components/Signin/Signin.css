@@ -1,0 +1,51 @@
+.signin{
+    position: relative;
+    z-index: 2;
+    
+}
+.signup{
+
+    padding-top: 20px;
+    border: 20px;
+    position: relative;
+    z-index: 2;
+}
+.signin{
+ 
+    padding-top: 10px;
+    border: 20px;
+    position: relative;
+    z-index: 2;
+}
+.Signup_button
+{
+
+    border-radius: 50px;
+    color: black;
+
+
+}
+.Signin_button
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 50px;
+    color: black;
+}
+
+
+#sign_in{
+    background-color: #5F6F94;
+    border-radius: 40px;
+    border-color: none;
+    box-shadow:  10px #888888;
+}
+.inputmail{
+    background-color:#EAE3D2;
+    color:#000000;
+}
+
+.inputpass{
+    background-color:#EAE3D2;
+    color:#000000;
+}

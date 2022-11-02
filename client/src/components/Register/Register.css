@@ -1,0 +1,15 @@
+.signup_box{
+    background-color: #5F6F94;
+    border-radius: 40px;
+    border-color: none;
+    box-shadow:  10px #888888;
+
+}
+
+.input{
+    background-color:#EAE3D2;
+    color:#000000;
+}
+.register{
+    border-radius: 20px;
+}

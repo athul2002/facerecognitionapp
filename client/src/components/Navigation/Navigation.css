@@ -1,0 +1,28 @@
+p{
+    text-decoration:none ;
+}
+.box
+{
+    position: relative;
+    z-index: 2;
+
+}
+.navi{
+    position: relative;
+    z-index: 2;
+    color: black;
+    font-weight: 700 ;
+}
+.navi{
+    background-color: #5F6F94;
+    display: flex;
+    justify-content: space-between;
+    height: 20%;
+}
+.logo img{
+    width:4vw;
+    height: 8vh;
+    margin-left: 2vw;
+    margin-top: 2.2vh;
+    
+}

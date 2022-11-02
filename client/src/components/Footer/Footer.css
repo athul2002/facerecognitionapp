@@ -1,0 +1,39 @@
+.Footer{
+    position: fixed;
+    bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 0%;
+    padding: 30px;
+    color: aliceblue;
+    flex-direction: row;
+    height: fit-content;
+    justify-content: space-between;
+}
+
+ .Footer p{
+     color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+ }
+
+ .Footer svg{
+
+     padding: 10px;
+     font-size: 40px;
+
+ }
+ .Footer a{
+    color: white;
+    height: 20px;
+    margin-bottom: 10px;
+    padding: 4px;
+ }
+
+svg :hover{
+    transform: translateY(-3px);    
+    transition: 0.2s;
+}

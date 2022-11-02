@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  z-index: 2;
+  margin-bottom: 20px;
+  margin-top: 20px;
+
+}

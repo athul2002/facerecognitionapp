@@ -1,0 +1,22 @@
+.message .message2 .Entry {
+    border: 200px;
+    position: relative;
+    z-index: 2;
+}
+.rank{
+    position: relative;
+    z-index: 1;
+
+}
+.message{
+    font-family: 'Kalam', cursive;
+    margin: 30px;
+}
+.rank{
+    background-color: rgb(158, 11, 11);
+    margin-top: 20px;
+    align-items: center;
+    border-radius: 20px;
+    width: 35vw;
+    margin-bottom: 20px;
+}
